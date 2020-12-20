@@ -18,5 +18,7 @@ Results(.csv) and figures(.jpg) exported from the task notebooks are outputted t
  Figures - contains folders for each Task1, Task2, Task3
 
  Results - contains folders for each Task1, Task2 (No csv results exported for Task 3 only figures)
+ 
+Note: The zipped folder uploaded to moodle is also contained within the GitHub INM702_Task1_2_3_Code_SarahRhalem.zip
 
 Location/link to the MNIST data: http://yann.lecun.com/exdb/mnist/
