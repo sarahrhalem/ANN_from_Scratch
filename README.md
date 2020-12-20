@@ -14,7 +14,9 @@ Each task is split in a seperate Jupyter Notebook which contain all the code to 
   *Task 3 - INM702_Task3_PyToch.ipynb
 
 Results(.csv) and figures(.jpg) exported from the task notebooks are outputted to the following folders :
-Figures - contains folders for each Task1, Task2, Task3
-Results - contains folders for each Task1, Task2 (No csv results exported for Task 3 only figures)
+
+ Figures - contains folders for each Task1, Task2, Task3
+
+ Results - contains folders for each Task1, Task2 (No csv results exported for Task 3 only figures)
 
 Location/link to the MNIST data: http://yann.lecun.com/exdb/mnist/
