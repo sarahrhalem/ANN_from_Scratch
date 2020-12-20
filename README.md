@@ -7,9 +7,11 @@ Task 3- Comparing our developed solution to results obtained by developing a PyT
 
 Each task is split in a seperate Jupyter Notebook which contain all the code to run the file, the following files are for each task:
 
-  -Task 1 - INM702_Task1.ipynb
-  -Task 2 - INM702_Task2.ipynb
-  -Task 3 - INM702_Task3_PyToch.ipynb
+  *Task 1 - INM702_Task1.ipynb
+  
+  *Task 2 - INM702_Task2.ipynb
+  
+  *Task 3 - INM702_Task3_PyToch.ipynb
 
 Results(.csv) and figures(.jpg) exported from the task notebooks are outputted to the following folders :
 Figures - contains folders for each Task1, Task2, Task3
